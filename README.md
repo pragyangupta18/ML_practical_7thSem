@@ -125,4 +125,6 @@ Reinforcement Learning (RL) involves training agents to make decisions by reward
 
 ---
 
+![image](https://github.com/user-attachments/assets/2fef1da2-0992-46e9-839a-6311d512bdbf)
+
 These exercises provide a well-rounded foundation in AI and data science techniques, applying theory to real-world datasets and problem-solving tasks.
